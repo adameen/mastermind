@@ -7,7 +7,7 @@
 
 import Combine
 
-protocol Coordinating: class {
+protocol Coordinating: AnyObject {
     associatedtype CoordinationResult
 
     var childCoordinatorsStorage: CoordinatorStorage { get }

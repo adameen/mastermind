@@ -33,7 +33,7 @@ extension GuessUseCase: GuessUseCaseType {
                 }
 
                 return Just(game)
-                    .mapError { $0 as Error }
+                    .setFailureType(to: Error.self)
                     .eraseToAnyPublisher()
             }
             .map { game in
