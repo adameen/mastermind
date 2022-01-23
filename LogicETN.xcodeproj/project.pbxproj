@@ -98,7 +98,7 @@
 		BED2C58D2631908A002DFC90 /* GuessUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessUseCase.swift; sourceTree = "<group>"; };
 		BED2C59026319C02002DFC90 /* Publisher+eraseType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Publisher+eraseType.swift"; sourceTree = "<group>"; };
 		BEDE978C2631DEEC0072A76A /* Publisher+bind.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Publisher+bind.swift"; sourceTree = "<group>"; };
-		BEFF0641262DE8AD003C1C91 /* logic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = logic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEFF0641262DE8AD003C1C91 /* LogicETN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LogicETN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEFF0644262DE8AD003C1C91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEFF0646262DE8AD003C1C91 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BEFF064D262DE8B0003C1C91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -314,7 +314,7 @@
 		BEFF0642262DE8AD003C1C91 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BEFF0641262DE8AD003C1C91 /* logic.app */,
+				BEFF0641262DE8AD003C1C91 /* LogicETN.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -384,9 +384,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BEFF0640262DE8AD003C1C91 /* logic */ = {
+		BEFF0640262DE8AD003C1C91 /* LogicETN */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BEFF0655262DE8B0003C1C91 /* Build configuration list for PBXNativeTarget "logic" */;
+			buildConfigurationList = BEFF0655262DE8B0003C1C91 /* Build configuration list for PBXNativeTarget "LogicETN" */;
 			buildPhases = (
 				BEFF063D262DE8AD003C1C91 /* Sources */,
 				BEFF063E262DE8AD003C1C91 /* Frameworks */,
@@ -396,13 +396,13 @@
 			);
 			dependencies = (
 			);
-			name = logic;
+			name = LogicETN;
 			packageProductDependencies = (
 				BEA889F02630825500E805D5 /* SnapKit */,
 				BEA889F42630826B00E805D5 /* Resolver */,
 			);
 			productName = logic;
-			productReference = BEFF0641262DE8AD003C1C91 /* logic.app */;
+			productReference = BEFF0641262DE8AD003C1C91 /* LogicETN.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -419,7 +419,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BEFF063C262DE8AD003C1C91 /* Build configuration list for PBXProject "logic" */;
+			buildConfigurationList = BEFF063C262DE8AD003C1C91 /* Build configuration list for PBXProject "LogicETN" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -436,7 +436,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BEFF0640262DE8AD003C1C91 /* logic */,
+				BEFF0640262DE8AD003C1C91 /* LogicETN */,
 			);
 		};
 /* End PBXProject section */
@@ -676,7 +676,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BEFF063C262DE8AD003C1C91 /* Build configuration list for PBXProject "logic" */ = {
+		BEFF063C262DE8AD003C1C91 /* Build configuration list for PBXProject "LogicETN" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BEFF0653262DE8B0003C1C91 /* Debug */,
@@ -685,7 +685,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BEFF0655262DE8B0003C1C91 /* Build configuration list for PBXNativeTarget "logic" */ = {
+		BEFF0655262DE8B0003C1C91 /* Build configuration list for PBXNativeTarget "LogicETN" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BEFF0656262DE8B0003C1C91 /* Debug */,
