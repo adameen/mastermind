@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BEFF0640262DE8AD003C1C91"
-               BuildableName = "logic.app"
+               BuildableName = "LogicETN.app"
                BlueprintName = "LogicETN"
                ReferencedContainer = "container:LogicETN.xcodeproj">
             </BuildableReference>
@@ -48,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BEFF0640262DE8AD003C1C91"
-            BuildableName = "logic.app"
+            BuildableName = "LogicETN.app"
             BlueprintName = "LogicETN"
             ReferencedContainer = "container:LogicETN.xcodeproj">
          </BuildableReference>
@@ -68,7 +68,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BEFF0640262DE8AD003C1C91"
-            BuildableName = "logic.app"
+            BuildableName = "LogicETN.app"
             BlueprintName = "LogicETN"
             ReferencedContainer = "container:LogicETN.xcodeproj">
          </BuildableReference>

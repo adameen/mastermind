@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/adam.pecev/repos/mastermind-ios/LogicETN.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
